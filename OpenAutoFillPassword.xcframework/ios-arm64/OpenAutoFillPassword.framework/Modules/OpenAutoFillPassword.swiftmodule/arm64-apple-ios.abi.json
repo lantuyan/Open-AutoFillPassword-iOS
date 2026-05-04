@@ -1,0 +1,46 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "OpenAutoFillPassword",
+    "printedName": "OpenAutoFillPassword",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "AuthenticationServices",
+        "printedName": "AuthenticationServices",
+        "declKind": "Import",
+        "moduleName": "OpenAutoFillPassword"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "OpenAutoFillPassword"
+      },
+      {
+        "kind": "Function",
+        "name": "openAutoFillPasswordSettings",
+        "printedName": "openAutoFillPasswordSettings()",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Void",
+            "printedName": "()"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:20OpenAutoFillPassword04openbcD8SettingsyyF",
+        "mangledName": "$s20OpenAutoFillPassword04openbcD8SettingsyyF",
+        "moduleName": "OpenAutoFillPassword",
+        "declAttributes": [
+          "AccessControl",
+          "Custom"
+        ],
+        "funcSelfKind": "NonMutating"
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": []
+}
